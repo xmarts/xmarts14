@@ -2,3 +2,8 @@
 	path = minutas
 	url = git@github.com:xmarts/minutas.git
 	branch = 14.0
+
+[submodule "gantt_modules"]
+	path = gantt_modules
+	url = git@github.com:xmarts/gantt_modules.git
+	branch = 14.0
